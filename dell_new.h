@@ -1,0 +1,5 @@
+class DellNew
+{
+public:
+	DellNew();
+};
