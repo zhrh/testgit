@@ -2,8 +2,10 @@
 
 Dell::Dell()
 {
+	printf("GPU MODIFIED\n");
 }
 
 Dell::~Dell()
 {
+	printf("GPU MODIFIED\n");
 }
